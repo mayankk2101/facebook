@@ -1,0 +1,126 @@
+body {
+  margin: 0px;
+  margin-bottom: 80px;
+  font-family: 'Plus Jakarta Sans', sans-serif;
+}
+
+.middle-container {
+  margin: 80px 70px 80px 70px;
+  height: 800px;
+  width: 1300px;
+  background-color: hsl(210, 60%, 98%);
+  -webkit-box-shadow: -3px 10px 62px -32px rgba(0, 0, 0, 0.75);
+  -moz-box-shadow: -3px 10px 62px -32px rgba(0, 0, 0, 0.75);
+  box-shadow: -3px 10px 62px -32px rgba(0, 0, 0, 0.75);
+  position: relative;
+  top: 50px;
+  left: auto;
+}
+
+.whitebox {
+  background-color: white;
+  height: 640px;
+  width: 625px;
+  position: relative;
+  top: 70px;
+  left: 337.5px;
+  border-radius: 1%;
+  -webkit-box-shadow: -1px 0px 24px -23px rgba(0, 0, 0, 0.75);
+  -moz-box-shadow: -1px 0px 24px -23px rgba(0, 0, 0, 0.75);
+  box-shadow: -1px 0px 24px -23px rgba(0, 0, 0, 0.75);
+}
+
+h1 {
+  font-weight: 800;
+  font-size: 22px;
+  position: absolute;
+  top: 15px;
+  left: 30px;
+  color: hsl(224, 21%, 14%);
+}
+
+.smallbox {
+  position: absolute;
+  top: 30px;
+  left: 180px;
+  background-color: hsl(219, 85%, 26%);
+  height: 23px;
+  width: 27px;
+  border-radius: 20%;
+}
+
+.three {
+  color: white;
+  position: absolute;
+  top: 16px;
+  left: 188px;
+  font-size: 15px;
+}
+
+.mark {
+  position: absolute;
+  right: 30px;
+  top: 18px;
+  font-size: 15px;
+  color: hsl(219, 12%, 42%);
+}
+
+.webber {
+  margin: auto;
+  height: 55px;
+  width: 90%;
+  position: relative;
+  top: 80px;
+  background-color: hsl(210, 60%, 98%);
+}
+
+.webber-image {
+  width: 35px;
+  position: relative;
+  top: 7px;
+  left: 15px;
+  float: left;
+}
+
+.webber-text {
+  font-size: 13px;
+  position: relative;
+  left: 30px;
+  top: 5px;
+  word-spacing: 2px;
+  line-height: 1.5;
+}
+
+.webber-span {
+  font-size: 15px;
+  font-weight: bold;
+  color: hsl(224, 21%, 14%);
+}
+
+.hello {
+  border: solid;
+  border-color: hsl(205, 33%, 90%);
+  position: relative;
+  top: 80px;
+  width: 70%;
+  font-size: 13px;
+  left: 100px;
+  padding-left: 20px;
+  padding-right: 10px;
+}
+
+.chess-image {
+  position: absolute;
+  right: 45px;
+  top: 445px;
+}
+
+.dot{
+  height: 6px;
+  width: 6px;
+  background-color: red;
+  position: absolute;
+  border-radius: 50%;
+  right: 55px;
+  top:10px;
+}
